@@ -1,0 +1,2 @@
+# aistudyplanner
+my first project
